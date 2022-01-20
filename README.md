@@ -1,2 +1,2 @@
 # Math-Operation
-C programm to find addition,subtraction,division,remainder,quotient according to user input
+C programm to Perform Division , Multiplication, Addition , Subtraction Of a given Number
