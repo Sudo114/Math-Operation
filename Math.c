@@ -1,3 +1,8 @@
+/*
+Author : Hemansh 
+Contact : zacnutbiz@gmail.com
+*/
+
 #include <stdio.h>
 int main()
 {
